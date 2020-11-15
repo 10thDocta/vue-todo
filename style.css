@@ -1,0 +1,12 @@
+h1 {
+  margin-bottom: 30px;
+}
+
+button.btn-light {
+  margin-bottom: 10px;
+}
+
+span.badge {
+  margin-left: 10px;
+  cursor: pointer;
+}
